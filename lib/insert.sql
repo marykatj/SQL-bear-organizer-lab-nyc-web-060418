@@ -5,3 +5,4 @@ INSERT INTO bears (name, age, color) VALUES ('Sergeant Brown', 3, 'brown');
 INSERT INTO bears (name, age, color) VALUES ('Melissa', 100, 'brown');
 INSERT INTO bears (name, age, color) VALUES ('Grinch', 16, 'brown');
 INSERT INTO bears (name, age, color) VALUES ('Wendy', 9, 'brown');
+INSERT INTO bears (name, age, color) VALUES (NULL, 8, 'black');
